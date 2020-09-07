@@ -59,6 +59,7 @@ p {
 }
 table {
     width: 100%;
+    font-size: 11pt;
 }
 table, th, td {
     border: 2px solid #cecece;
@@ -86,7 +87,7 @@ progress::-webkit-progress-bar {
 }
 progress::-webkit-progress-value {
     background: #3fb6b2;
-} 
+}
 progress::-moz-progress-bar {
     color: #3fb6b2;
     background: #efefef;
